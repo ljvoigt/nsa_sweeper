@@ -1,0 +1,11 @@
+{
+  "name": "nsa_sweeper",
+  "version": "0.0.0",
+  "description": "Remove all NSA surveillance systems",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Luiz Branco",
+  "license": "BSD-2-Clause"
+}
